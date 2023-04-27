@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "LBdPWMpePjRH7P1kYmfdO/FGV8Q4JIuuNedsNw1BZAM=",
+  "Source": "WebSockets",
+  "BasePath": "_content/WebSockets",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebSockets\\wwwroot",
+      "Source": "WebSockets",
+      "ContentRoot": "G:\\Project\\C#\\StreamWebApi\\WebSockets\\wwwroot\\",
+      "BasePath": "_content/WebSockets",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "G:\\Project\\C#\\StreamWebApi\\WebSockets\\wwwroot\\index.html",
+      "SourceId": "WebSockets",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\Project\\C#\\StreamWebApi\\WebSockets\\wwwroot\\",
+      "BasePath": "_content/WebSockets",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
